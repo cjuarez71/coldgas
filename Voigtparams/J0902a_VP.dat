@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|sigcol|bval|sigbval|vel|sigvel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|z_comp|trans|rely|comment 
+GOTOQJ0902+1414a_F.fits|5891.5833|0.05055|12.379|0.035|63.183|6.422|-10.911|4.381|2|2|2|-100.0|100.0|6187.437615162251|6191.368056467751|13847|13866|0.05051|NaI|-|none 
+GOTOQJ0902+1414a_F.fits|5897.5581|0.05055|12.379|0.0|63.183|0.0|-10.911|0.0|2|2|2|-110.0|110.0|6193.515726960346|6197.843596949656|13876|13897|0.05051|NaI|-|none 

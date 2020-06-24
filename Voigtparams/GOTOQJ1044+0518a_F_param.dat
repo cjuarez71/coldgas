@@ -1,0 +1,3 @@
+specfile|restwave|zsys|col|bval|vel|nflag|bflag|vflag|vlim1|vlim2|wobs1|wobs2|pix1|pix2|trans
+GOTOQJ1044+0518a_F.fits| 3934.777| 0.108| 15| 34.0| 0| 2| 2| 2| -85.0| 40.0| 4358.43292| 4360.33292| 4358.4131 | 4360.30212| CaII 
+GOTOQJ1044+0518a_F.fits| 3969.591| 0.108| 15| 20.0| 0| 2| 2| 2| -35.0| 30.0| 4397.90683| 4398.70683| 4397.96179| 4398.69484| CaII 
